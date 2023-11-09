@@ -1,12 +1,27 @@
  <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Recipe</title>
 </head>
 <body>
 
 <h1>Vegetarian Casserole</h1>
-<p>Known as ''buddha's delight'', the original recipe for this dish </p>
+<p>Known as "buddha's delight", the original recipe for this dish lists 18 different ingredients to represent tge 18 buddhas. Although the ingredients may seem unusual, they are all easy to obtain at Asian markets</p>
 
 </body>
 </html> 
+<ol>
+    <li>2 ozs dried bean-curd skins</li>
+    <li>2-oz package cellophane noodles</li>
+    <li>1 cup loosely packed tiger lily buds</li>
+    <li>4-6 dried Chinese mushrooms</li>
+    <li>A few lettuce leaves</li>
+    <li>1/4 cup each drained and sliced canned bamboo shoots and water chestnuts</li>
+    <li>10-oz can braised gluten, drained abd cut into chunks</li>
+    <li>2 tbs light soy sauce</li>
+    <li>1 tb rice wine</li>
+    <li>1 cup Chinese stock or water</li>
+    <li>1/2 cup broccoli florets</li>
+    <li>1/2 tsp sesame oil</li>
+
+  </ol> 
